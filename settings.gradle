@@ -1,0 +1,4 @@
+rootProject.name = 'config-custom-exchanger'
+
+include 'library'
+include 'test-application'
